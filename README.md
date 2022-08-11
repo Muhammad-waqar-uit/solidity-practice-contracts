@@ -4,5 +4,5 @@ Practicing solidity programming to write contracts
 <h2>Learning Map List</h2>
 <ul>
 <li>Solidity Documentation</li>
-<li> [![Toturial](https://www.youtube.com/watch?v=eoQJ6nFZOcs) </li>
+  <li><a href="https://www.youtube.com/watch?v=eoQJ6nFZOcs">Tutorial</a></li>
 </ul>
